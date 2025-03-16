@@ -1,0 +1,19 @@
+body{
+    background-color:#c9b279;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color:white;
+    font-family: "Gochi Hand", cursive;
+    text-align: center;
+}
+.sloth_img{
+    width: 100%;
+    border: 5px solid white;
+}
